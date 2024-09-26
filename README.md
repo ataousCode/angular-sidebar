@@ -1,5 +1,8 @@
 # AngSidebar
 
+<img width="1438" alt="Screenshot 2024-09-26 at 15 13 36" src="https://github.com/user-attachments/assets/12b87309-78e3-4bc4-a39d-d4f4da2a70a9">
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.16.
 
 ## Development server
